@@ -1,0 +1,28 @@
+:root {
+    --torfinn: pink; 
+}
+
+
+
+#slideshow {
+    background: url("mikkeogminnie.jpg");
+    position: relative;
+    left: 2em;
+    top: 2em;
+    width: calc(100% - 4em);
+    height: calc(100% - 4em);
+    border: 2px solid gray; 
+    border-radius: 2em;
+    background-color: var(--tofinn); 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    animation: slideshow 6s steps(1) infinite;
+
+ }
+
+ @keyframes slideshow {
+     0% {background-image:url("large30.jpg") }
+     33% {background-image:url("large31.jpg") }
+     66% {background-image:url("large32.jpg") }
+ }

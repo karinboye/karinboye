@@ -1,0 +1,13 @@
+div div:nth-child(2) span {
+    color: #E8B0B0; 
+}
+
+div div::first-letter {
+
+    color: #800071;
+    font:italic small-caps bold 4em cursive;
+    margin-right: 5px; 
+
+}
+
+

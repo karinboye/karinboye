@@ -1,0 +1,56 @@
+#meny {
+    
+        background: #FFFFFF;
+        position: absolute;
+        left: 0;
+        bottom: 0%;
+        width: 100%;
+        height: 80%;
+        text-shadow: 3px 3px rgba(246, 182, 182, 0.70);
+
+        }
+    
+        #tittel {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 50%;
+            background: white;
+            background-size: contain; 
+            color: rgba(191, 113, 113, 0.00);
+            
+            
+            
+           
+        
+            background-repeat: no-repeat;
+            text-shadow: 3px 3px rgba(229, 181, 181, 0.70);
+            text-align: center; 
+            font-size: 5em; 
+        }
+    
+            #innhold {
+                position: absolute;
+                left: 20%;
+                bottom: 15%;
+                width: 80%;
+                height: 60%;
+                background: white;
+                text-align: center;
+                text-decoration-color:#E7D1D1; 
+                text-shadow: 3px 3px rgba(250,250,250,0.7);
+                background-size: cover; 
+            
+                }
+    
+                #bunn {
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    width: 100%;
+                    height: 0%;
+                    background:#E7D1D1;
+                    }
+                   
+          
